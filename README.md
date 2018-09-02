@@ -47,6 +47,7 @@ GLOBAL OPTIONS:
 ## daemon run
 
 ~~~bash
+➜ sudo ./webui -s install
 ➜ sudo ./webui -s start
 2018/09/02 11:53:47 Starting aria2 webui service:				[  OK  ]
 ~~~
