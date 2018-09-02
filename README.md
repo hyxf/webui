@@ -9,6 +9,10 @@ Binary webui [golang]
 ➜ make releases
 ~~~
 
+## download
+
+[the latest Binary](https://github.com/hyxf/webui/releases/latest)
+
 ## help
 
 ~~~bash
