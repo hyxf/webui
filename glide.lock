@@ -1,0 +1,19 @@
+hash: 3c4cc2f49eb1f0f5fc4e54bafc3021edc3973f90ba86125edca92172a0fe89fa
+updated: 2018-09-07T11:22:49.788223+08:00
+imports:
+- name: github.com/rakyll/statik
+  version: aa8a7b1baecd0f31a436bf7956fcdcc609a83035
+  subpackages:
+  - fs
+- name: github.com/takama/daemon
+  version: aa76b0035d1239b7bb3ae1bd84cd88ef2e0a1f1e
+- name: github.com/urfave/cli
+  version: cfb38830724cc34fedffe9a2a29fb54fa9169cd1
+- name: golang.org/x/sys
+  version: 8cf3aee429924738c56c34bb819c4ea8273fc434
+  subpackages:
+  - windows
+  - windows/registry
+  - windows/svc
+  - windows/svc/mgr
+testImports: []
